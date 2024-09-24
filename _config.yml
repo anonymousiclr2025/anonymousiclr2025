@@ -12,9 +12,9 @@ title                    : "anonymousiclr2025"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://anonymousiclr2025.github.io/anonymousiclr2025 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anonymousiclr2025.github.io/iclr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anonymousiclr2025/anonymousiclr2025"
+repository               : "anonymousiclr2025/iclr2025"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
